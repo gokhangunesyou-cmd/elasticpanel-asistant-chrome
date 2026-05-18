@@ -6,7 +6,7 @@
 
 A modern, fast and lightweight Chrome extension for developers, DevOps engineers and data engineers who work with Elasticsearch every day. No more switching to Kibana or terminal — query, monitor and manage your clusters from a side panel.
 
-[Install from Chrome Web Store](#) · [Download ZIP](./elastic-panel-v1.0.0.zip) · [Privacy Policy](./PRIVACY.md)
+[Install from Chrome Web Store](#) · [Privacy Policy](./PRIVACY.md)
 
 ![Dashboard](./screenshots/dashboard.png)
 
@@ -62,10 +62,10 @@ Turkish, English and Arabic UI out of the box. Auto-detects browser language.
 *Coming soon — pending review.*
 
 ### Manual installation (developer mode)
-1. Download the latest [`elastic-panel-v1.0.0.zip`](./elastic-panel-v1.0.0.zip) and extract it, **or** clone this repo and use the `extension/` folder directly.
+1. Clone this repo and use the `extension/` folder directly.
 2. Open `chrome://extensions` in Chrome.
 3. Enable **Developer mode** (top right).
-4. Click **Load unpacked** → select the extracted folder (or the `extension/` folder).
+4. Click **Load unpacked** → select the `extension/` folder.
 5. Pin ElasticPanel to your toolbar and click the icon to open.
 
 ---
